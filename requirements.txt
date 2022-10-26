@@ -2,4 +2,4 @@ matplotlib
 pymc3
 arviz
 numpy
-theano
+theano-pymc
