@@ -1,0 +1,4 @@
+matplotlib
+pymc3
+arviz
+numpy
